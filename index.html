@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>UCHi</title>
+    <link rel="stylesheet" href="style.css">
+    <script defer src="coordinates.json"></script>
+    <script defer src="script.js"></script>
+</head>
+<body>
+    <div class="expression">
+        <p id="expression__content">
+            <span id="A"></span>
+            <span>+</span>
+            <span id="B"></span>
+            <span>=</span>
+            <span id="question"> ?</span>
+        </p>
+    </div>
+    <div class="ruler">
+        <div class="ruler__inputs">
+            <input id="input__a" type="text">
+        </div>
+        <div class="canvas">
+                <canvas id="myCanvas" width="875" height="40"></canvas>
+        </div>
+        <img src="sprite.png" alt="ruler">    
+    </div>   
+</body>
+</html>

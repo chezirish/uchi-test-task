@@ -1,0 +1,58 @@
+.expression {
+    margin: 0 auto;
+    display: block;
+    max-width: 150px;
+}
+
+#expression__content {
+    text-align: center;
+    font-size: 30px;
+}
+
+.ruler {
+    display: table;
+    margin: 0 auto;
+}
+
+.result__input {
+    width: 35px;
+    height: 22px;
+    border-radius: 6px;
+    position: relative;
+    bottom: 3px;
+    outline: none;
+    font-size: 21px;
+}
+
+.ruler__inputs {
+    min-height: 50px;
+}
+
+.ruler__inputs input {
+    width: 16px;
+    border-radius: 5px
+}
+
+#input__a {
+    position: relative;
+    left: 204px;
+}
+
+.number__a {
+    position: relative;
+    left: 204px;
+    color: green;
+    font-size: 20px;
+}
+
+.number__b {
+    position: relative;
+    left: 403px;
+    color: green;
+    font-size: 20px;
+}
+
+#input__b {
+    position: relative;
+    left: 403px;
+}

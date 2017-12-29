@@ -1,0 +1,27 @@
+json = {
+    "6-11": { "startPointX": 270, "startPointY": 40, "ControlStartPointX":  270, "ControlStartPointY": 0, "ControlEndPointX":  466, "ControlEndPointY": 0, "endPointX": 466, "endPointY": 40 },
+    "6-12": { "startPointX": 270, "startPointY": 40, "ControlStartPointX":  270, "ControlStartPointY": 0, "ControlEndPointX":  504, "ControlEndPointY": 0, "endPointX": 504, "endPointY": 40 },
+    "6-13": { "startPointX": 270, "startPointY": 40, "ControlStartPointX":  270, "ControlStartPointY": 0, "ControlEndPointX":  543, "ControlEndPointY": 0, "endPointX": 543, "endPointY": 40 },
+    "6-14": { "startPointX": 270, "startPointY": 40, "ControlStartPointX":  270, "ControlStartPointY": 0, "ControlEndPointX":  582, "ControlEndPointY": 0, "endPointX": 582, "endPointY": 40 },
+
+    "7-11": { "startPointX": 309, "startPointY": 40, "ControlStartPointX":  309, "ControlStartPointY": 0, "ControlEndPointX":  466, "ControlEndPointY": 0, "endPointX": 466, "endPointY": 40 },
+    "7-12": { "startPointX": 309, "startPointY": 40, "ControlStartPointX":  309, "ControlStartPointY": 0, "ControlEndPointX":  504, "ControlEndPointY": 0, "endPointX": 504, "endPointY": 40 },
+    "7-13": { "startPointX": 309, "startPointY": 40, "ControlStartPointX":  309, "ControlStartPointY": 0, "ControlEndPointX":  543, "ControlEndPointY": 0, "endPointX": 543, "endPointY": 40 },
+    "7-14": { "startPointX": 309, "startPointY": 40, "ControlStartPointX":  309, "ControlStartPointY": 0, "ControlEndPointX":  582, "ControlEndPointY": 0, "endPointX": 582, "endPointY": 40 },
+
+    "8-11": { "startPointX": 348, "startPointY": 40, "ControlStartPointX":  348, "ControlStartPointY": 0, "ControlEndPointX":  466, "ControlEndPointY": 0, "endPointX": 466, "endPointY": 40 },
+    "8-12": { "startPointX": 348, "startPointY": 40, "ControlStartPointX":  348, "ControlStartPointY": 0, "ControlEndPointX":  504, "ControlEndPointY": 0, "endPointX": 504, "endPointY": 40 },
+    "8-13": { "startPointX": 348, "startPointY": 40, "ControlStartPointX":  348, "ControlStartPointY": 0, "ControlEndPointX":  543, "ControlEndPointY": 0, "endPointX": 543, "endPointY": 40 },
+    "8-14": { "startPointX": 348, "startPointY": 40, "ControlStartPointX":  348, "ControlStartPointY": 0, "ControlEndPointX":  582, "ControlEndPointY": 0, "endPointX": 582, "endPointY": 40 },
+
+    "9-11": { "startPointX": 386, "startPointY": 40, "ControlStartPointX":  386, "ControlStartPointY": 0, "ControlEndPointX":  466, "ControlEndPointY": 0, "endPointX": 466, "endPointY": 40 },
+    "9-12": { "startPointX": 386, "startPointY": 40, "ControlStartPointX":  386, "ControlStartPointY": 0, "ControlEndPointX":  504, "ControlEndPointY": 0, "endPointX": 504, "endPointY": 40 },
+    "9-13": { "startPointX": 386, "startPointY": 40, "ControlStartPointX":  386, "ControlStartPointY": 0, "ControlEndPointX":  543, "ControlEndPointY": 0, "endPointX": 543, "endPointY": 40 },
+    "9-14": { "startPointX": 386, "startPointY": 40, "ControlStartPointX":  386, "ControlStartPointY": 0, "ControlEndPointX":  582, "ControlEndPointY": 0, "endPointX": 582, "endPointY": 40 },
+
+    "0-6": { "startPointX": 38, "startPointY": 40, "ControlStartPointX":  38, "ControlStartPointY": 0, "ControlEndPointX":  270, "ControlEndPointY": 0, "endPointX": 270, "endPointY": 40 },
+    "0-7": { "startPointX": 38, "startPointY": 40, "ControlStartPointX":  38, "ControlStartPointY": 0, "ControlEndPointX":  309, "ControlEndPointY": 0, "endPointX": 309, "endPointY": 40 },
+    "0-8": { "startPointX": 38, "startPointY": 40, "ControlStartPointX":  38, "ControlStartPointY": 0, "ControlEndPointX":  348, "ControlEndPointY": 0, "endPointX": 348, "endPointY": 40 },
+    "0-9": { "startPointX": 38, "startPointY": 40, "ControlStartPointX":  38, "ControlStartPointY": 0, "ControlEndPointX":  386, "ControlEndPointY": 0, "endPointX": 386, "endPointY": 40 }
+    
+}
